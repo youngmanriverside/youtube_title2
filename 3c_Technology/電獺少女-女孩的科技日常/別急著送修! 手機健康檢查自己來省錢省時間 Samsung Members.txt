@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '78 則留言', 'Desc': '發現手機怪怪的先別急著送修\n其實有些內建的檢查功能可以先自己處理\n如果發現無法自己處理再送修喲!\n節省時間也節省金錢!', 'DisLikes': '27', 'Duration': '0:30', 'Likes': '612', 'Publish_Date': '2018年6月27日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '別急著送修! 手機健康檢查自己來省錢省時間 Samsung Members', 'Views': '觀看次數：37,882次'}

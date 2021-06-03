@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '216 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #LULU盧 #財神硬上門', 'DisLikes': '127', 'Duration': '0:15', 'Likes': '3522', 'Publish_Date': '2021年4月6日', 'Subscribers': '148萬 位訂閱者', 'Title': '【財神硬上門！LULU的家全被看光光～房間裡有阿達送的吉他跟假奶區？！】綜藝玩很大 精華', 'Views': '觀看次數：872,575次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '19 則留言', 'Desc': '黃隊：吳宗憲、小鬼黃鴻升\n黑隊：KID\n\n#永遠的小隊長 #逆比手畫腳 #雲林古坑 #五堅情玩很大', 'DisLikes': '9', 'Duration': '8:09', 'Likes': '181', 'Publish_Date': '2020年11月18日', 'Subscribers': '148萬 位訂閱者', 'Title': '【古坑民眾的「逆比手畫腳」大挑戰！偉晉超獨特形容法 民眾能Get到嗎？！】綜藝玩很大 精華', 'Views': '觀看次數：10,738次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '110 則留言', 'Desc': '你以為你很了解Instagram限時動態了嗎?\n麼呵呵呵你太天真了!!\n在IG限時動態的世界中還有很多招數你沒用過\n趕快學起來讓你的朋友問個沒完!!', 'DisLikes': '83', 'Duration': '0:30', 'Likes': '2549', 'Publish_Date': '2017年12月23日', 'Subscribers': '84.7萬 位訂閱者', 'Title': 'Instagram IG限時動態隱藏密技大公開! [小技巧篇]', 'Views': '觀看次數：203,507次'}

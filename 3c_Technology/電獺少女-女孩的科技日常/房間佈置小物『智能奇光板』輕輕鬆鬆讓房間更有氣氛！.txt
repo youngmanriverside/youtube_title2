@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '68 則留言', 'Desc': '覺得佈置房間很難？\n用「智能奇光板」簡單的步驟\n輕輕鬆鬆就可以營造房間氣氛啦～', 'DisLikes': '9', 'Duration': '3:35', 'Likes': '454', 'Publish_Date': '2018年9月18日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '房間佈置小物『智能奇光板』輕輕鬆鬆讓房間更有氣氛！', 'Views': '觀看次數：21,814次'}

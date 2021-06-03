@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '84 則留言', 'Desc': '手機條碼申請教學看這邊→https://agirls.aotter.net/post/53915\n#雲端發票 #載具 #行動支付', 'DisLikes': '21', 'Duration': '3:15', 'Likes': '536', 'Publish_Date': '2019年1月5日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '雲端發票是什麼？為什麼電子發票有紙本？獺問獺答', 'Views': '觀看次數：40,723次'}

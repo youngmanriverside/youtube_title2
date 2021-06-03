@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '107 則留言', 'Desc': '你不知道原來有這麼多方法買LINE貼圖！\n看到喜歡的作品就不用等長大辦信用卡啦\n\n#推坑的節奏 #實用系勸敗少女', 'DisLikes': '15', 'Duration': '2:47', 'Likes': '1217', 'Publish_Date': '2019年8月3日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '沒有信用卡怎麼買LINE貼圖？獺問獺答', 'Views': '觀看次數：63,185次'}

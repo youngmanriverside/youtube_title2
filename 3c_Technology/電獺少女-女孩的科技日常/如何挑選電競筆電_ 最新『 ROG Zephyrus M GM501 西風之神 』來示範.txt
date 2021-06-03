@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '87 則留言', 'Desc': '想買電競筆電卻不知道要注意哪些地方?\n小依今天化身小老師\n用新一代『 ROG Zephyrus M GM501 西風之神 』示範給大家!', 'DisLikes': '40', 'Duration': '5:55', 'Likes': '661', 'Publish_Date': '2018年6月29日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '如何挑選電競筆電? 最新『 ROG Zephyrus M GM501 西風之神 』來示範', 'Views': '觀看次數：62,989次'}

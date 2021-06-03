@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '326 則留言', 'Desc': '今年快過一半啦!\n上半年度最新的旗艦手機們有那些呢?\n是否有你錯過的好機種?\n趕快來瞧瞧名單上有誰吧!', 'DisLikes': '181', 'Duration': '5:56', 'Likes': '1763', 'Publish_Date': '2018年5月12日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '2018上半年旗艦手機精選 你錯過誰了嗎?', 'Views': '觀看次數：314,962次'}

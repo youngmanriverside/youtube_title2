@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '208 則留言', 'Desc': '熱門的抖音玩過沒?\n宇恩要教第一次想玩抖音的你簡單上手\n入門的對嘴跟運鏡這樣玩!\n\n附註: 抖音的國際版就是Tik Tok喲', 'DisLikes': '245', 'Duration': '0:20', 'Likes': '6301', 'Publish_Date': '2018年4月22日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '抖音對嘴、運鏡入門教學 (Tik Tok) [App篇]', 'Views': '觀看次數：364,988次'}

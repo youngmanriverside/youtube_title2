@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '188 則留言', 'Desc': 'YouTube重大更新來了，這幾個功能你跟上了嗎？', 'DisLikes': '147', 'Duration': '2:44', 'Likes': '1590', 'Publish_Date': '2017年9月1日', 'Subscribers': '84.7萬 位訂閱者', 'Title': 'YouTube重大更新! 5個你不可不知的新功能示範', 'Views': '觀看次數：183,226次'}

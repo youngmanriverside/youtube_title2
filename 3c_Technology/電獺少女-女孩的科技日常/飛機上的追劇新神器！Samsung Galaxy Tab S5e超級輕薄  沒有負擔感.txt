@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '171 則留言', 'Desc': '準備出發員工旅遊⋯⋯！\n但是機上娛樂跟拉車時的空閑時間怎麼辦？\n比化妝包還輕的追劇平板來了～\n\n#又美又輕 #新平板', 'DisLikes': '57', 'Duration': '0:30', 'Likes': '938', 'Publish_Date': '2019年7月13日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '飛機上的追劇新神器！Samsung Galaxy Tab S5e超級輕薄  沒有負擔感', 'Views': '觀看次數：77,254次'}

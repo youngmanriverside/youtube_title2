@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '34 則留言', 'Desc': '回歸第一天就來這麼硬 憲哥要扛住呀～～～～\n\n黃隊：吳宗憲、小鬼黃鴻升\n黑隊：KID\n\n#永遠小隊長 #澎湖療癒之旅 #憲哥回歸黃隊', 'DisLikes': '8', 'Duration': '0:30', 'Likes': '359', 'Publish_Date': '2020年11月2日', 'Subscribers': '148萬 位訂閱者', 'Title': '【憲哥回歸第一天就被綜藝之神附身！過關機器大卡關？！】綜藝玩很大 精華', 'Views': '觀看次數：37,828次'}

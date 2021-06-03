@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '156 則留言', 'Desc': '我一點都不怕女生穿比基尼~哈哈哈', 'DisLikes': '379', 'Duration': '2:37', 'Likes': '3711', 'Publish_Date': '2015年4月5日', 'Subscribers': '148萬 位訂閱者', 'Title': '吳宗憲最害怕女星穿比基尼泳衣【綜藝玩很大】20150404', 'Views': '觀看次數：2,434,527次'}

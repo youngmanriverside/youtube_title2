@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '37 則留言', 'Desc': '想獲勝？我來抽！\n#永遠小隊長 #37：7 #抽球', 'DisLikes': '12', 'Duration': '0:15', 'Likes': '480', 'Publish_Date': '2020年11月13日', 'Subscribers': '148萬 位訂閱者', 'Title': '【幸運數字7！傳說中的37：7重出江湖？】綜藝玩很大 精華', 'Views': '觀看次數：70,627次'}

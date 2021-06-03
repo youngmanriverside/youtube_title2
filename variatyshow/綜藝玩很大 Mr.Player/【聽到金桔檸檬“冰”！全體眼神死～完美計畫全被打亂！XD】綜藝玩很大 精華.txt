@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '76 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #金桔檸檬冰 #兄弟旅行團', 'DisLikes': '18', 'Duration': '1:10', 'Likes': '375', 'Publish_Date': '2021年4月12日', 'Subscribers': '148萬 位訂閱者', 'Title': '【聽到金桔檸檬“冰”！全體眼神死～完美計畫全被打亂！XD】綜藝玩很大 精華', 'Views': '觀看次數：79,187次'}

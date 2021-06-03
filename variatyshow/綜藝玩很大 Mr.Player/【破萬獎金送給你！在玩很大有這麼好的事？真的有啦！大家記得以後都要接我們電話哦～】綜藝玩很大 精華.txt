@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '28 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #鬼鬼吳映潔 #荳荳 #房思瑜 #財神到你家', 'DisLikes': '3', 'Duration': '4:19', 'Likes': '271', 'Publish_Date': '2021年3月30日', 'Subscribers': '148萬 位訂閱者', 'Title': '【破萬獎金送給你！在玩很大有這麼好的事？真的有啦！大家記得以後都要接我們電話哦～】綜藝玩很大 精華', 'Views': '觀看次數：46,913次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '271 則留言', 'Desc': '超熱門小米手環3有什麼升級的功能？\n既然還沒搶到\n就趕快先來看我們的介紹～\n看看你有沒有心動呢！', 'DisLikes': '109', 'Duration': '3:45', 'Likes': '1554', 'Publish_Date': '2018年9月2日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '小米手環3 加入多項新功能！升級不加價，你買單嗎？', 'Views': '觀看次數：203,895次'}

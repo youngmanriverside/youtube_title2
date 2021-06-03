@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '49 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #張齡予 #曾莞婷 #潘映竹 #董梓甯', 'DisLikes': '13', 'Duration': '0:36', 'Likes': '525', 'Publish_Date': '2021年1月19日', 'Subscribers': '148萬 位訂閱者', 'Title': '【女藝人閨房大突襲！張齡予不計形象守護「神秘抽屜」？ 一起捐物品做愛心 玩遊戲抽紅包～】綜藝玩很大 精華', 'Views': '觀看次數：145,582次'}

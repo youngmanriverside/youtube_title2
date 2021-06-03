@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '183 則留言', 'Desc': '訂閱了幾百個YouTube頻道\n不知道怎麼分類整理嗎?\n其實有個簡單的辦法可以幫這些頻道分類\n學完之後\n記得把電獺少女YouTube頻道放到我的最愛!', 'DisLikes': '34', 'Duration': '2:54', 'Likes': '1866', 'Publish_Date': '2018年6月10日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '如何分類整理YouTube訂閱? 教你簡單頻道分類! [小技巧篇]', 'Views': '觀看次數：66,928次'}

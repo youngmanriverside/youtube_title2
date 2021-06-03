@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '195 則留言', 'Desc': '好的～今天小依要跟大家展示ROG Phone 的兩招\n一來看看用它玩遊戲有沒有真的比較厲害\n\n#ROGPhone #吃雞 #電競手機', 'DisLikes': '37', 'Duration': '6:41', 'Likes': '767', 'Publish_Date': '2018年9月26日', 'Subscribers': '84.7萬 位訂閱者', 'Title': 'ROG Phone 吃雞比較強？外接鍵鼠組、超狂AirTriggers應用的吃雞秘辛！', 'Views': '觀看次數：64,210次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '60 則留言', 'Desc': '買檯燈到底有什麼眉角要注意？\n活到現在還沒近視過的詩伊，教你怎麼挑檯燈啦\n\n#真的是彩虹色光 #youtube你乖乖正常一點阿', 'DisLikes': '10', 'Duration': '0:20', 'Likes': '241', 'Publish_Date': '2019年5月1日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '保護你的眼！開箱無眩光 Stage One 彩虹光智慧檯燈', 'Views': '觀看次數：11,463次'}

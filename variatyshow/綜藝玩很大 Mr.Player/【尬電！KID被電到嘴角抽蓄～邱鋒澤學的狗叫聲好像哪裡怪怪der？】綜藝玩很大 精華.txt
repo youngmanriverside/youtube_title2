@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '22 則留言', 'Desc': '黃隊：吳宗憲、小鬼黃鴻升\n黑隊：KID\n\n#永遠小隊長 #邱鋒澤 #五堅情玩很大', 'DisLikes': '3', 'Duration': '0:30', 'Likes': '252', 'Publish_Date': '2020年11月25日', 'Subscribers': '148萬 位訂閱者', 'Title': '【尬電！KID被電到嘴角抽蓄～邱鋒澤學的狗叫聲好像哪裡怪怪der？】綜藝玩很大 精華', 'Views': '觀看次數：21,354次'}

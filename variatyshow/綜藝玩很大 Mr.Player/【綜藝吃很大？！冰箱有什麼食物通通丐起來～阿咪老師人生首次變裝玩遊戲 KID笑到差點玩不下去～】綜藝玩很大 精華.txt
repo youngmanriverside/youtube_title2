@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '25 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #邵昕 #阿咪老師', 'DisLikes': '12', 'Duration': '0:15', 'Likes': '299', 'Publish_Date': '2021年1月26日', 'Subscribers': '148萬 位訂閱者', 'Title': '【綜藝吃很大？！冰箱有什麼食物通通丐起來～阿咪老師人生首次變裝玩遊戲 KID笑到差點玩不下去～】綜藝玩很大 精華', 'Views': '觀看次數：66,396次'}

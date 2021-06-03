@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '14 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #絲襪套頭拔河 #SoRed #蘇芮德', 'DisLikes': '1', 'Duration': '0:15', 'Likes': '135', 'Publish_Date': '2021年3月15日', 'Subscribers': '148萬 位訂閱者', 'Title': '【江宏傑絲襪套頭初體驗！吱吱變身威爾史密斯？！粿粿被芳芸拖行兩公尺後結局大逆轉～】綜藝玩很大 精華', 'Views': '觀看次數：13,409次'}

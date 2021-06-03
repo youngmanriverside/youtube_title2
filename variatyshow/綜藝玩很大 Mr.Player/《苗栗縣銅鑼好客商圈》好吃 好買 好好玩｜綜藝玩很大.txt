@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '32 則留言', 'Desc': '#綻Fun新商圈 #苗栗縣銅鑼好客商圈 #笑著陪你玩下去\n關主：吳宗憲\n黃隊：小鬼黃鴻升\n黑隊：KID', 'DisLikes': '5', 'Duration': '0:30', 'Likes': '374', 'Publish_Date': '2020年10月30日', 'Subscribers': '148萬 位訂閱者', 'Title': '《苗栗縣銅鑼好客商圈》好吃 好買 好好玩｜綜藝玩很大', 'Views': '觀看次數：22,990次'}

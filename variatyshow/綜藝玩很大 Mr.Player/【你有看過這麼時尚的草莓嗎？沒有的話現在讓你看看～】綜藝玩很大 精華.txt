@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '1 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #時尚草莓卸妝秀 #草莓汁', 'DisLikes': '3', 'Duration': '0:29', 'Likes': '105', 'Publish_Date': '2021年3月10日', 'Subscribers': '148萬 位訂閱者', 'Title': '【你有看過這麼時尚的草莓嗎？沒有的話現在讓你看看～】綜藝玩很大 精華', 'Views': '觀看次數：9,450次'}

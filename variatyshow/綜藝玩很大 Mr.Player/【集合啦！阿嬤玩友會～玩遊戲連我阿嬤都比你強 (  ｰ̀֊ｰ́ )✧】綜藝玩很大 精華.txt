@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '5 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #阿嬤棲息地 #叫你的阿嬤來囉 #玖壹壹', 'DisLikes': '2', 'Duration': '0:41', 'Likes': '117', 'Publish_Date': '2020年12月15日', 'Subscribers': '148萬 位訂閱者', 'Title': '【集合啦！阿嬤玩友會～玩遊戲連我阿嬤都比你強 (  ｰ̀֊ｰ́ )✧】綜藝玩很大 精華', 'Views': '觀看次數：11,788次'}

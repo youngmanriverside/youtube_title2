@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '46 則留言', 'Desc': '獺友們敲碗的MacBook Pro Touch Bar進階教學來啦\n除了基本操作技巧之外\n大家常用的影音剪輯與繪圖軟體也都有支援Touch Bar喔', 'DisLikes': '7', 'Duration': '4:39', 'Likes': '282', 'Publish_Date': '2017年8月30日', 'Subscribers': '84.7萬 位訂閱者', 'Title': 'MacBook Pro Touch Bar快捷影音修圖 [小技巧篇]', 'Views': '觀看次數：30,518次'}

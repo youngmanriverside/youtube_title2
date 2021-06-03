@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '8 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #屏東玩很大 #叫我接接', 'DisLikes': '3', 'Duration': '0:20', 'Likes': '105', 'Publish_Date': '2021年4月27日', 'Subscribers': '148萬 位訂閱者', 'Title': '【玩很大的傳統就是逆轉勝！為什麼贏家要被電？李玖哲被電到靈魂抽離啦～XD】綜藝玩很大 精華', 'Views': '觀看次數：18,469次'}

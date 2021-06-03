@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '13 則留言', 'Desc': '求救？不用，請叫我解題大師！\n#永遠小隊長 #二崁聚落 #頌華私墅', 'DisLikes': '7', 'Duration': '0:30', 'Likes': '180', 'Publish_Date': '2020年11月11日', 'Subscribers': '148萬 位訂閱者', 'Title': '【自信滿滿，我是天才！史上最聰明的解題～運氣流 李易 VS 金頭腦 憲哥，誰才是最強天才？】綜藝玩很大 精華', 'Views': '觀看次數：21,386次'}

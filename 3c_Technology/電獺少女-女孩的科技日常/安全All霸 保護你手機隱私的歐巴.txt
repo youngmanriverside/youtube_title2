@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '35 則留言', 'Desc': '《Security Master安全All霸》\nAndroid下載連結: https://play.google.com/store/apps/de...', 'DisLikes': '6', 'Duration': '2:43', 'Likes': '158', 'Publish_Date': '2017年10月14日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '安全All霸 保護你手機隱私的歐巴', 'Views': '觀看次數：11,881次'}

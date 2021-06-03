@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '81 則留言', 'Desc': '雖然這次新一代iPad有變便宜\n但重點是它居然可以支援Apple pencil使用哦!\n來看看用起來的感覺如何吧', 'DisLikes': '43', 'Duration': '2:36', 'Likes': '663', 'Publish_Date': '2018年6月17日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '新一代2018版 iPad 快速開箱上手玩 (支援 Apple pencil 平價版)', 'Views': '觀看次數：81,220次'}

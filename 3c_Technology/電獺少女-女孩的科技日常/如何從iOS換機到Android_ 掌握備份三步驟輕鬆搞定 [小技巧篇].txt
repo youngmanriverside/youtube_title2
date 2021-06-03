@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '94 則留言', 'Desc': '很多人都在問如果想要從iOS系統跳槽到Android系統\n有沒有什麼簡單的換機方法?\n今天宇恩就要來快速示範給大家看啦!', 'DisLikes': '99', 'Duration': '3:43', 'Likes': '1855', 'Publish_Date': '2018年1月24日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '如何從iOS換機到Android? 掌握備份三步驟輕鬆搞定 [小技巧篇]', 'Views': '觀看次數：256,979次'}

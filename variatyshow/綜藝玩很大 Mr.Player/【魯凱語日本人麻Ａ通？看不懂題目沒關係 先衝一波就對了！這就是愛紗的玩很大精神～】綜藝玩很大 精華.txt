@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '23 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #千田愛紗 #霧臺玩很大', 'DisLikes': '6', 'Duration': '0:30', 'Likes': '128', 'Publish_Date': '2020年12月29日', 'Subscribers': '148萬 位訂閱者', 'Title': '【魯凱語日本人麻Ａ通？看不懂題目沒關係 先衝一波就對了！這就是愛紗的玩很大精神～】綜藝玩很大 精華', 'Views': '觀看次數：14,036次'}

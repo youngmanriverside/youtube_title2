@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '102 則留言', 'Desc': 'iPhone耳機有哪些實用妙招?\n絕對不是只有聽聽音樂、接個電話這麼簡單\n如果沒好好發揮它的實力\n是你這個主人的錯喔!\n趕快看電獺少女的教學吧', 'DisLikes': '147', 'Duration': '2:46', 'Likes': '3074', 'Publish_Date': '2017年10月16日', 'Subscribers': '84.7萬 位訂閱者', 'Title': 'iPhone耳機密技整理 (iOS 11新版) [小技巧篇]', 'Views': '觀看次數：276,443次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '98 則留言', 'Desc': '如果獺友們還有任何密技也都歡迎分享補充!!\n至於有些品牌沒講到嘛...OO趕快送一支來給我開箱呀(微笑', 'DisLikes': '13', 'Duration': '5:25', 'Likes': '406', 'Publish_Date': '2018年8月4日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '手機螢幕關閉時 如何最快開啟相機? 密技大整理 [小技巧篇]', 'Views': '觀看次數：21,633次'}

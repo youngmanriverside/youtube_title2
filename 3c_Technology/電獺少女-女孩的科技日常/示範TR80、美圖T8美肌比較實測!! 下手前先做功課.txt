@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '58 則留言', 'Desc': '傳說中的經典自拍神器TR80和新一代美顏新寵美圖T8\n一台是相機、一台是手機\n手機難道會贏過相機嗎?\n到底哪一支拍起來的效果比較好呢?\n趕快看電獺少女的實測!!', 'DisLikes': '22', 'Duration': '4:51', 'Likes': '454', 'Publish_Date': '2017年7月3日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '示範TR80、美圖T8美肌比較實測!! 下手前先做功課', 'Views': '觀看次數：52,562次'}

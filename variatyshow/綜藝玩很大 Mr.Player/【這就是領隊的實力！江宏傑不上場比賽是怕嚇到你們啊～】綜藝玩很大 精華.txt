@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCQU5uVTG8h9LToACKrm1LMA', 'ChannelName': '綜藝玩很大 Mr.Player', 'Comments': '132 則留言', 'Desc': '永遠的小隊長：小鬼黃鴻升\n黃隊：吳宗憲\n黑隊：KID\n\n#永遠的小隊長 #Bumball #江宏傑', 'DisLikes': '11', 'Duration': '0:06', 'Likes': '901', 'Publish_Date': '2021年3月23日', 'Subscribers': '148萬 位訂閱者', 'Title': '【這就是領隊的實力！江宏傑不上場比賽是怕嚇到你們啊～】綜藝玩很大 精華', 'Views': '觀看次數：148,601次'}

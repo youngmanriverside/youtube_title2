@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC5mUfjjhTR-nCXSIYaquYuQ', 'ChannelName': '好玩先生', 'Comments': '12 則留言', 'Desc': '感謝8/21當天\n所有澎湖民眾的熱情參與\n以及金沙灘水上活動中心大力協助\n因為你們，讓這項罕見疾病的病友們更受到重視^^\n\n綜藝玩很大 2014.08.21', 'DisLikes': '14', 'Duration': '0:57', 'Likes': '603', 'Publish_Date': '2014年8月25日', 'Subscribers': '6.2萬 位訂閱者', 'Title': '綜藝玩很大接受ALS Ice Bucket Challenge冰桶挑戰!!!!', 'Views': '觀看次數：122,651次'}

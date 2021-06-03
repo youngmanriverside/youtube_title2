@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '100 則留言', 'Desc': 'Apple 發表會上的簡報都是這樣做的!! \n快把這些實用又帥氣的簡報製作小撇步學起來吧', 'DisLikes': '66', 'Duration': '5:00', 'Likes': '3694', 'Publish_Date': '2017年9月18日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '新版Keynote、Numbers、Pages輕鬆上手! 超實用iWork小教室', 'Views': '觀看次數：187,286次'}

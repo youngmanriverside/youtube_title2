@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '80 則留言', 'Desc': '本週就是雙11啦\n這次小米可是針對1111推出了多款超狂居家產品\n馬上跟著宇恩一起來看這些家電小物要怎麼使用吧！\n\n#小米 #雙11 #1111優惠', 'DisLikes': '31', 'Duration': '5:16', 'Likes': '360', 'Publish_Date': '2018年11月8日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '米家電動刮鬍刀 小米濾水壺等高CP值居家小物開箱用給你看', 'Views': '觀看次數：38,312次'}

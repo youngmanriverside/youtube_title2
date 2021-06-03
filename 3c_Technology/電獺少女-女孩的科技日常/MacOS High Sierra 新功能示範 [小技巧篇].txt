@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '34 則留言', 'Desc': 'MacOS High Sierra三大更新重點整理來啦!!\n相片、Safari、其他工具程式\n千萬不要更新了還不知道有這些好功能喲', 'DisLikes': '8', 'Duration': '3:57', 'Likes': '400', 'Publish_Date': '2017年10月26日', 'Subscribers': '84.7萬 位訂閱者', 'Title': 'MacOS High Sierra 新功能示範 [小技巧篇]', 'Views': '觀看次數：26,912次'}

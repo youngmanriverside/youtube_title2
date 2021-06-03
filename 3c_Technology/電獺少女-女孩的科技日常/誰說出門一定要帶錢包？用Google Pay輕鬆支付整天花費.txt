@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '421 則留言', 'Desc': '某天詩伊匆匆忙忙衝出家門準備上班\n但是她只帶了手機鑰匙悠遊卡，如何不借錢的過完這一天呢？\n(一定要看完唷)\n\n#行動支付 #googlepay #免帶錢包', 'DisLikes': '55', 'Duration': '2:52', 'Likes': '659', 'Publish_Date': '2018年11月6日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '誰說出門一定要帶錢包？用Google Pay輕鬆支付整天花費', 'Views': '觀看次數：93,895次'}

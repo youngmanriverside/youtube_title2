@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '173 則留言', 'Desc': '哪五種? 想知道只能看完影片囉!\n簡報視覺、簡報範本或簡報設計的入門就從這裡開始吧', 'DisLikes': '189', 'Duration': '0:33', 'Likes': '1.1萬', 'Publish_Date': '2018年5月19日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '五種方法讓PPT簡報視覺100分 [小技巧篇]', 'Views': '觀看次數：449,234次'}

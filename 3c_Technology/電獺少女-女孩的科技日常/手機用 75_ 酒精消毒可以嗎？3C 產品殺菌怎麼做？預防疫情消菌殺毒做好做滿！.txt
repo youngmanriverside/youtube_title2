@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '167 則留言', 'Desc': '疾病防禦點好點滿，但勤洗手也很重要！\n\n#酒精消毒 #手機殺菌', 'DisLikes': '43', 'Duration': '0:20', 'Likes': '1561', 'Publish_Date': '2020年2月24日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '手機用 75% 酒精消毒可以嗎？3C 產品殺菌怎麼做？預防疫情消菌殺毒做好做滿！', 'Views': '觀看次數：107,761次'}

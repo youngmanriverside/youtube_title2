@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCAr4MVsPBKjhg5eLDDpbDFg', 'ChannelName': '電獺少女-女孩的科技日常', 'Comments': '76 則留言', 'Desc': 'Acer這款Leap Beads智慧佛珠開箱啦!!\n它到底能幹嘛?\n會自己誦經嗎?\n聞起來有味道嗎?\n手機來電它會震動嗎?\n趕快跟著佛系少女一起開箱!', 'DisLikes': '14', 'Duration': '4:47', 'Likes': '455', 'Publish_Date': '2018年4月19日', 'Subscribers': '84.7萬 位訂閱者', 'Title': '佛系少女開箱! Acer智慧佛珠能紀錄念經次數、迴向功德給朋友?', 'Views': '觀看次數：34,319次'}
