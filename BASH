@@ -1,0 +1,95 @@
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ cd
+
+USER@DESKTOP-Q9VEVLU MINGW64 ~ (master)
+$ cd ~
+
+USER@DESKTOP-Q9VEVLU MINGW64 ~ (master)
+$ cd /d/學習/養成班/期末專題/youtube_title
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git init
+Reinitialized existing Git repository in D:/學習/養成班/期末專題/youtube_title/.git/
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ ls
+3c_Technology/  variatyshow/
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ cd ~
+
+USER@DESKTOP-Q9VEVLU MINGW64 ~ (master)
+$ cd /d/學習/養成班/期末專題/youtube_title
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git remote add origin https://github.com/youngmanriverside/Youtube_TITLE_N.git
+error: remote origin already exists.
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git remote rm origin
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git remote add origin https://github.com/youngmanriverside/Youtube_TITLE_N.git
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git remote -v
+origin  https://github.com/youngmanriverside/Youtube_TITLE_N.git (fetch)
+origin  https://github.com/youngmanriverside/Youtube_TITLE_N.git (push)
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git add .
+warning: adding embedded git repository: variatyshow
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> variatyshow
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached variatyshow
+hint:
+hint: See "git help submodule" for more information.
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git add .
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git commit -m
+error: switch `m' requires a value
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ ls
+3c_Technology/  variatyshow/
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git add .
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git init
+Reinitialized existing Git repository in D:/學習/養成班/期末專題/youtube_title/.git/
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git add .
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git commit -m “First commit”
+error: pathspec 'commit”' did not match any file(s) known to git
+
+USER@DESKTOP-Q9VEVLU MINGW64 /d/學習/養成班/期末專題/youtube_title (master)
+$ git push origin master
+Enumerating objects: 1168, done.
+Counting objects: 100% (1168/1168), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (1167/1167), done.
+Writing objects: 100% (1168/1168), 930.11 KiB | 5.14 MiB/s, done.
+Total 1168 (delta 303), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (303/303), done.
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/youngmanriverside/Youtube_TITLE_N/pull/new/master
+remote:
+To https://github.com/youngmanriverside/Youtube_TITLE_N.git
+ * [new branch]      master -> master
